@@ -132,7 +132,7 @@ export default function App() {
               <p className="text-neutral-400 mb-8 leading-relaxed">
                 Focus on board control, dynamic balancing, and sharp turns. Specifically designed for mastering movement in tighter city areas.
               </p>
-              <div className="text-4xl font-black text-white">₹ 1,500 <span className="text-base text-neutral-500 font-medium tracking-normal">/ Month</span></div>
+              <div className="text-4xl font-black text-white">₹ 1,000 <span className="text-base text-neutral-500 font-medium tracking-normal">/ Month</span></div>
             </motion.div>
 
             <motion.div
@@ -146,7 +146,7 @@ export default function App() {
               <p className="text-neutral-400 mb-8 leading-relaxed">
                 Have your own specific type of skates? Bring them in. We provide specialized guidance tailored to your chosen equipment.
               </p>
-              <div className="text-4xl font-black text-white">₹ 1,500 <span className="text-base text-neutral-500 font-medium tracking-normal">/ Month</span></div>
+              <div className="text-4xl font-black text-white">₹ 1,000 <span className="text-base text-neutral-500 font-medium tracking-normal">/ Month</span></div>
             </motion.div>
           </div>
         </div>
@@ -159,17 +159,17 @@ export default function App() {
             <div className="p-8 bg-neutral-900 rounded-2xl border border-white/10">
               <Calendar className="text-lime-400 mb-4" size={32} />
               <h4 className="text-lg font-bold mb-1 uppercase tracking-wider">Start Date</h4>
-              <p className="text-3xl font-black">MAY 5, 2026</p>
+              <p className="text-3xl font-black">MAY 11, 2026</p>
             </div>
             <div className="p-8 bg-neutral-900 rounded-2xl border border-white/10">
               <Clock className="text-lime-400 mb-4" size={32} />
               <h4 className="text-lg font-bold mb-1 uppercase tracking-wider">Timing</h4>
-              <p className="text-3xl font-black">9:00 - 10:00 PM</p>
+              <p className="text-3xl font-black">8:00 - 9:00 PM</p>
             </div>
             <div className="p-8 bg-neutral-900 rounded-2xl border border-white/10">
               <MapPin className="text-lime-400 mb-4" size={32} />
               <h4 className="text-lg font-bold mb-1 uppercase tracking-wider">Place</h4>
-              <p className="text-3xl font-black">Harman Homes</p>
+              <p className="text-3xl font-black">Jagdamba Chowk Nutan Nagar </p>
             </div>
             <div className="p-8 bg-lime-400 text-black rounded-2xl">
               <Users className="mb-4" size={32} />
