@@ -286,7 +286,7 @@ export default function App() {
 
             <div className="relative aspect-square rounded-3xl overflow-hidden border border-white/5">
               <img
-                src="https://images.unsplash.com/photo-1544933863-482c39c104a2?q=80&w=800&auto=format&fit=crop"
+                src="/ChatGPT Image May 7, 2026, 04_00_14 PM.png"
                 alt="Skate Action"
                 className="w-full h-full object-cover grayscale opacity-50 hover:grayscale-0 hover:opacity-100 transition-all duration-700"
                 referrerPolicy="no-referrer"
