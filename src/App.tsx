@@ -288,7 +288,7 @@ export default function App() {
               <img
                 src="/ChatGPT Image May 7, 2026, 04_00_14 PM.png"
                 alt="Skate Action"
-                className="w-full h-full object-cover grayscale opacity-50 hover:grayscale-0 hover:opacity-100 transition-all duration-700"
+                className="w-full h-full object-cover"
                 referrerPolicy="no-referrer"
               />
               <div className="absolute inset-0 flex items-center justify-center p-8 pointer-events-none">
