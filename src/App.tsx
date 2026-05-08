@@ -130,9 +130,9 @@ export default function App() {
               </div>
               <h3 className="text-2xl font-bold mb-4">Wave Board Mastery</h3>
               <p className="text-neutral-400 mb-8 leading-relaxed">
-                Focus on board control, dynamic balancing, and sharp turns. Specifically designed for mastering movement in tighter city areas.
+                 Focus on board control, dynamic balancing, and sharp turns through an intensive 10-day training program. This batch runs from 11th May to 20th May with daily guided practice and skill progression.
               </p>
-              <div className="text-4xl font-black text-white">₹ 1,000 <span className="text-base text-neutral-500 font-medium tracking-normal">/ Month</span></div>
+              <div className="text-4xl font-black text-white">₹ 1,000 <span className="text-base text-neutral-500 font-medium tracking-normal">/ program</span></div>
             </motion.div>
 
             <motion.div
@@ -144,9 +144,9 @@ export default function App() {
               </div>
               <h3 className="text-2xl font-bold mb-4">Custom Gear Focus</h3>
               <p className="text-neutral-400 mb-8 leading-relaxed">
-                Have your own specific type of skates? Bring them in. We provide specialized guidance tailored to your chosen equipment.
+                Have your own type of skates? Bring them along. During this 10-day batch from 11th May to 20th May, we provide specialized guidance tailored to your specific skating equipment and riding style.
               </p>
-              <div className="text-4xl font-black text-white">₹ 1,000 <span className="text-base text-neutral-500 font-medium tracking-normal">/ Month</span></div>
+              <div className="text-4xl font-black text-white">₹ 1,000 <span className="text-base text-neutral-500 font-medium tracking-normal">/ program</span></div>
             </motion.div>
           </div>
         </div>
@@ -169,7 +169,7 @@ export default function App() {
             <div className="p-8 bg-neutral-900 rounded-2xl border border-white/10">
               <MapPin className="text-lime-400 mb-4" size={32} />
               <h4 className="text-lg font-bold mb-1 uppercase tracking-wider">Place</h4>
-              <p className="text-3xl font-black">Jagdamba Chowk Nutan Nagar </p>
+              <p className="text-3xl font-black">Harman Homes</p>
             </div>
             <div className="p-8 bg-lime-400 text-black rounded-2xl">
               <Users className="mb-4" size={32} />
@@ -273,7 +273,7 @@ export default function App() {
                   <div className="w-16 h-16 rounded-full bg-white/5 border border-white/10 flex items-center justify-center group-hover:bg-lime-400 transition-colors">
                     <Phone className="text-white group-hover:text-black transition-colors" size={24} />
                   </div>
-                  <span className="text-2xl md:text-3xl font-black tracking-tight">+91 920149747</span>
+                  <span className="text-2xl md:text-3xl font-black tracking-tight">+91 9201497437</span>
                 </a>
                 <a href="mailto:official.atharvmahajan8004@gmail.com" className="flex items-center gap-6 group">
                   <div className="w-16 h-16 rounded-full bg-white/5 border border-white/10 flex items-center justify-center group-hover:bg-lime-400 transition-colors">
