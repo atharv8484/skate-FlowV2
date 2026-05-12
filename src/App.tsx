@@ -130,7 +130,7 @@ export default function App() {
               </div>
               <h3 className="text-2xl font-bold mb-4">Wave Board Mastery</h3>
               <p className="text-neutral-400 mb-8 leading-relaxed">
-                 Focus on board control, dynamic balancing, and sharp turns through an intensive 10-day training program. This batch runs from 11th May to 20th May with daily guided practice and skill progression.
+                 Learn waveboarding from scratch in just 10 days — with daily guided practice covering board control, balance, and sharp turns.
               </p>
               <div className="text-4xl font-black text-white">₹ 1,000 <span className="text-base text-neutral-500 font-medium tracking-normal">/ program</span></div>
             </motion.div>
@@ -142,9 +142,9 @@ export default function App() {
               <div className="bg-blue-400/10 w-14 h-14 rounded-xl flex items-center justify-center mb-6 border border-blue-400/20">
                 <Users className="text-blue-400" size={28} />
               </div>
-              <h3 className="text-2xl font-bold mb-4">Custom Gear Focus</h3>
+              <h3 className="text-2xl font-bold mb-4">Bring Your Skates!</h3>
               <p className="text-neutral-400 mb-8 leading-relaxed">
-                Have your own type of skates? Bring them along. During this 10-day batch from 11th May to 20th May, we provide specialized guidance tailored to your specific skating equipment and riding style.
+                Have your own skates? Bring them along! Whether it's a skateboard, inline skates, roller skates, or any other ride — we'll guide you based on your equipment and style, and get you riding it confidently in just 10 days.
               </p>
               <div className="text-4xl font-black text-white">₹ 1,000 <span className="text-base text-neutral-500 font-medium tracking-normal">/ program</span></div>
             </motion.div>
